@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 两个线程交替打印数字
  * synchronized锁+AtomicInteger
  *
- * @author Wang.Peng.
+ * @author Wang.Peng
  */
 public class MethodOne {
 
